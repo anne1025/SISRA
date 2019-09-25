@@ -5,8 +5,8 @@ Regatta es un almacén mediano ubicado en el sur de Cali donde se comercializan 
 ## Comenzando 🚀
 Puedes obtener el proyecto de dos formas
 ```
-	•  Mediante una terminar ejecutamos git clone https://github.com/anne1025/SISRA.git
-	•  En la parte superior del proyecto “Download ZIP”
+  •  Mediante una terminar ejecutamos git clone https://github.com/anne1025/SISRA.git
+  •  En la parte superior del proyecto “Download ZIP”
 ```
 
 ### Pre-requisitos 📋
@@ -39,7 +39,7 @@ Puedes obtener el proyecto de dos formas
 ## Deployment 📦
 1.	Para ingresar al Rol del admin las credenciales son admin:admin
 2.	Verificar que el nombre de la base de datos que cargamos sea igual en el gestor y en la fachada.
-3.      El ejecutable de la aplicacion se encuentra en la carpeta exe
+3.	El ejecutable de la aplicacion se encuentra en la carpeta exe
 
 ## Construido con 🛠️
 
@@ -55,9 +55,9 @@ Usamos [Git](https://git-scm.com/) para el versionado. Para todas las versiones 
 
 ## Autores ✒️
 
-* **Ana Pereira** - *Analisis y Desarrollo* - [AndresDFX](https://github.com/anne1025)
+* **Ana Pereira** - *Analisis y Desarrollo* - [anne1025](https://github.com/anne1025)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/AndresDFX/HSM/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/anne1025/SISRA/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
